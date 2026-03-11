@@ -2,8 +2,9 @@
 <h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞 <img src="https://github.com/fzhmghfrh/fzhmghfrh/blob/main/gifs/HiRight.gif" width="30"></h2>
 </div>
 
-``` ![GitHub stats](https://github-readme-stats.vercel.app/api?username=fzhmghfrh&show_icons=true&hide=stars&theme=transparent)```
-
+<!--
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=fzhmghfrh&show_icons=true&hide=stars&theme=transparent)
+-->
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=fzhmghfrh&theme=transparent)](https://git.io/streak-stats)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fzhmghfrh&layout=compact&theme=transparent)
